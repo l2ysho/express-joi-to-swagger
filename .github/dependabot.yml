@@ -7,7 +7,7 @@ updates:
       day: "monday"
     open-pull-requests-limit: 5
     cooldown:
-      default-days: 3
+      default-days: 7
 
   - package-ecosystem: "npm"
     directory: "/"
@@ -16,4 +16,4 @@ updates:
       day: "monday"
     open-pull-requests-limit: 5
     cooldown:
-      default-days: 3
+      default-days: 7
